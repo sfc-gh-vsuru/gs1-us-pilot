@@ -1,10 +1,9 @@
-# GS1 US x Snowflake Pilot — Build Plan
+# GS1 US + Snowflake Pilot
 
 ## What This Is
 
-A joint pilot proving that AI shopping agents give better, faster, cheaper answers when grounded on GS1 US standardized product data — and that Snowflake's semantic models outperform traditional retrieval.
+A joint pilot proving that AI shopping agents give better, faster, accurate answers when grounded on GS1 US standardized product data — and that Snowflake's semantic models outperform traditional retrieval.
 
-Co-published as evidence by GS1 US and Snowflake. Method locked in advance.
 
 ---
 
@@ -15,7 +14,7 @@ Co-published as evidence by GS1 US and Snowflake. Method locked in advance.
 
 ---
 
-## What to Build
+## Build Details
 
 | # | Component | Description |
 |---|---|---|
@@ -119,21 +118,6 @@ GS1 commits curation/validation time only. No engineering.
 
 ---
 
-## Build Steps
-
-1. Create Snowflake database and schema
-2. Generate gold product catalog (~50-100 products)
-3. Derive retailer and scraped versions from gold
-4. Create Cortex Search services (one per data version)
-5. Create Semantic View over GS1 standardized data
-6. Create Cortex Agent (fixed model + prompt, swappable tool)
-7. Write 20-30 shopping questions with correct answers
-8. Run agent across all 4 configurations
-9. Capture metrics (accuracy, tokens, latency, cost)
-10. Produce results comparison
-
----
-
 ## Success Looks Like
 
 A results table showing:
@@ -147,4 +131,8 @@ A results table showing:
 
 Headline: "GS1 standardized data + Snowflake semantic models improve AI shopping agent accuracy by X% while reducing cost by Y%"
 
+---
 
+## Setup
+
+See [setup.md](setup.md) for step-by-step instructions to deploy the full environment.
