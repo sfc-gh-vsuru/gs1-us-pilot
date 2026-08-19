@@ -7,6 +7,39 @@ A joint pilot proving that AI shopping agents give better, faster, accurate answ
 
 ---
 
+## Pilot Architecture
+
+```mermaid
+flowchart LR
+    subgraph Data Sources
+        GOLD[Gold Catalog<br/>60 products, full GS1 attributes]
+        GOLD --> RET[Retailer Internal<br/>degraded, missing fields]
+        GOLD --> WEB[Web Scraped<br/>noisy, duplicates, no IDs]
+    end
+
+    subgraph Grounding Layer
+        WEB --> CS1[Cortex Search<br/>Web]
+        RET --> CS2[Cortex Search<br/>Retailer]
+        GOLD --> CS3[Cortex Search<br/>GS1]
+        GOLD --> SV[Semantic View<br/>Cortex Analyst]
+    end
+
+    subgraph Agent Evaluation
+        CS1 --> AGENT[Shopping Agent<br/>4 configs × 25 questions]
+        CS2 --> AGENT
+        CS3 --> AGENT
+        SV --> AGENT
+        AGENT --> JUDGE[LLM Judge<br/>score 0-5 per response]
+    end
+
+    subgraph Results
+        JUDGE --> SCORES[Final Scores<br/>accuracy, tokens, latency]
+        SCORES --> DASH[Streamlit Dashboard<br/>KPIs, charts, detail explorer]
+    end
+```
+
+---
+
 ## The Two Claims to Prove
 
 1. **Data quality wins:** GS1 standardized product data produces more accurate, complete answers than retailer-internal or scraped web data.
