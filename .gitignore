@@ -1,0 +1,25 @@
+# Snowflake local configs and plans
+.snowflake/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+.venv/
+venv/
+
+# Secrets / credentials
+*.pem
+*.key
+*.p12
+credentials.*
+secrets.*
