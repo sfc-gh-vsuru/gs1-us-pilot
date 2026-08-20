@@ -4,23 +4,15 @@ QUESTION_ID,QUESTION_TEXT,QUESTION_TYPE,EXPECTED_ANSWER,DIFFICULTY,TESTS_ATTRIBU
 3,How many calories per 100g does the CreamValley Greek Yogurt Plain have?,nutrition,97 kcal per 100g,easy,energy_kcal_per100g
 4,Which products are gluten-free and cost less than $4?,filter,"CreamValley Vanilla Bean Yogurt ($1.19), CreamValley Greek Yogurt Strawberry ($1.49), FrostBite Mixed Vegetables ($2.49), MountainSpring Coconut Water ($2.99), PureDairy 2% Reduced Fat Milk ($3.29), CleanHome Dish Soap ($3.29), FreshSqueeze Cranberry Juice Cocktail ($3.49), FreshSqueeze Lemonade ($3.79), SunriseGrains Chocolate Puffs ($3.99), CrunchCraft Sea Salt Kettle Chips ($3.99), CreamValley Cottage Cheese ($3.99), FreshSqueeze Apple Juice ($3.99)",medium,"contains_gluten,price_usd"
 5,What is the protein content of the WisconsinPride Sharp Cheddar?,nutrition,25g protein per 100g,easy,protein_g_per100g
-6,Which breakfast cereal has the highest fiber content?,comparison,MorningField Bran Flakes with 18g fiber per 100g,medium,fibre_g_per100g
 7,Is the NaturePath Organic Corn Flakes gluten-free?,allergen,"Yes, it is gluten-free. Produced in a gluten-free facility with no major allergens.",easy,contains_gluten
-8,What is the cheapest dairy product available?,price,CreamValley Vanilla Bean Yogurt at $1.19,medium,"price_usd,category_l2"
-9,Which products contain both nuts and dairy?,allergen,"MorningField Fruit & Nut Muesli, NutHouse Trail Mix Classic, DarkBliss Milk Chocolate Almonds",medium,"contains_nuts,contains_dairy"
 10,How much fat per 100g is in the PureDairy Butter?,nutrition,81g fat per 100g,easy,fat_g_per100g
-11,What products are made in Japan?,filter,LeafBrew Green Tea Bags 20ct,medium,country_of_origin
 12,Which frozen product has the lowest calories?,comparison,FrostBite Mixed Vegetables with 55 kcal per 100g,medium,"energy_kcal_per100g,category_l2"
 13,Does the HearthBaked Everything Bagels contain eggs?,allergen,"Yes, contains wheat (gluten), milk, sesame, soy, and eggs",easy,contains_eggs
-14,What is the most expensive snack product?,price,NutHouse Cashews Salted at $8.99,medium,"price_usd,category_l2"
 15,List all products from the DarkBliss brand with their prices,filter,"DarkBliss 72% Dark Chocolate Bar 3.5oz ($4.99), DarkBliss Milk Chocolate Almonds 5oz ($5.49), DarkBliss White Chocolate Raspberry Bar 3oz ($4.49)",medium,"brand,price_usd"
 16,Which product has the highest protein per 100g?,comparison,PrimeCut Thick Cut Bacon with 37g protein per 100g,hard,protein_g_per100g
 17,What is the sugar content of the FreshSqueeze Lemonade?,nutrition,10.5g sugar per 100g,easy,sugars_g_per100g
 18,Which beverages contain no allergens and cost under $5?,filter,"FreshSqueeze Apple Juice ($3.99), MountainSpring Still Water 24pk ($4.29), LeafBrew Green Tea Bags ($4.49), FreshSqueeze Orange Juice ($4.99), FreshSqueeze Lemonade ($3.79), FreshSqueeze Cranberry Juice Cocktail ($3.49), MountainSpring Coconut Water ($2.99)",hard,"allergen_statement,price_usd,category_l2"
-19,What packaging does the PureDairy Heavy Cream come in?,factual,Carton,easy,packaging_type
 20,How many products are in the Meat & Poultry category?,filter,5 products,easy,category_l2
 21,Which products have more than 15g of protein per 100g and no gluten?,filter,"WisconsinPride Sharp Cheddar (25g), WisconsinPride Mozzarella Shredded (28g), PrimeCut Ground Beef (19g), PrimeCut Boneless Chicken Breast (22g), PrimeCut Thick Cut Bacon (37g), PrimeCut Italian Sausage (16g), PrimeCut Sliced Turkey Deli Meat (18g), NutHouse Roasted Almonds (21g), NutHouse Cashews Salted (18g), FrostBite Chicken Tenders (18g)",hard,"protein_g_per100g,contains_gluten"
-22,What is the average price of breakfast cereals?,comparison,About $5.07,medium,"price_usd,category_l2"
-23,Which brand has the most products in the catalog?,comparison,"Multiple brands tie with different counts across categories. GoldenHarvest, MorningField, CreamValley, FreshSqueeze, CrunchCraft, NutHouse, DarkBliss, FrostBite, HearthBaked, PrimeCut each have multiple products.",hard,brand
 24,Is the FrostBite Pepperoni Pizza suitable for someone with a soy allergy?,allergen,"No, it contains soy",easy,contains_soy
 25,What is the salt content of the CrunchCraft Pretzel Thins?,nutrition,2.5g salt per 100g,easy,salt_g_per100g

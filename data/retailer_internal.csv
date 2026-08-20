@@ -1,61 +1,61 @@
-SKU,VENDOR,ITEM_NAME,DEPARTMENT,PRICE,SIZE_TEXT,ALLERGEN_NOTES,IN_STOCK,UPC_CODE,LAST_UPDATED
-SKU-00001,GoldenHarvest,GoldenHarvest Oat Flakes 18oz,Breakfast Cereals,4.29,18 oz,Contains wheat and oats (gluten),Yes,,2026-03-12
-SKU-00002,GoldenHarvest,GoldenHarvest Honey Granola 16oz,Breakfast Cereals,5.49,16 oz,"Contains wheat, oats (gluten) and tree nuts",Yes,,2026-03-02
-SKU-00003,MorningField,MorningField Bran Flakes 14oz,Breakfast Cereals,3.11,14 oz,Contains wheat (gluten),Yes,,2026-02-12
-SKU-00004,MorningField,MorningField Fruit & Nut Muesli 20oz,Breakfast Cereals,5.73,20 oz,"Contains wheat (gluten), milk, and tree nuts",Yes,,2026-04-25
-SKU-00005,NaturePath,NaturePath Organic Corn Flakes 12oz,Breakfast Cereals,4.49,12 oz,Gluten-free facility. No major allergens,Yes,,2026-01-23
-SKU-00006,NaturePath,NaturePath Steel Cut Oats 24oz,Breakfast Cereals,5.99,24 oz,Contains oats (gluten). Processed in a facility that handles tree nuts,Yes,,2026-01-31
-SKU-00007,SunriseGrains,SunriseGrains Chocolate Puffs 13oz,Breakfast Cereals,3.99,13 oz,Contains milk and soy,Yes,,2026-03-02
-SKU-00008,SunriseGrains,Crunch 15oz,Breakfast Cereals,6.49,15 oz,"Contains wheat (gluten), milk, and soy",Out of Stock,00123456000080,2026-04-14
-SKU-00009,GoldenHarvest,Variety 10pk,Breakfast Cereals,4.99,10 ct,"Contains wheat, oats (gluten) and milk",Yes,00123456000097,2026-01-15
-SKU-00010,MorningField,MorningField Cinnamon Squares 14.5oz,Breakfast Cereals,4.19,14.5 oz,Contains wheat (gluten) and soy,Yes,,2026-04-05
-SKU-00011,PureDairy,PureDairy Whole Milk 1 Gallon,Dairy,4.59,128 fl oz,Contains milk,Yes,,2025-11-24
-SKU-00012,PureDairy,PureDairy 2% Reduced Fat Milk Half Gallon,Dairy,3.29,64 fl oz,Contains milk,Yes,,2026-01-17
-SKU-00013,CreamValley,CreamValley Greek Yogurt Plain 32oz,Dairy,5.99,32 oz,Contains milk,Yes,,2026-03-01
-SKU-00014,CreamValley,Strawberry 5.3oz,Dairy,1.49,5.3 oz,Contains milk,Yes,00123456000141,2026-03-10
-SKU-00015,CREAMVALLEY,Yogurt 6oz,Dairy,1.07,6 oz,Contains milk,Yes,00123456000158,2026-01-02
-SKU-00016,WisconsinPride,Cheddar 8oz,Dairy,4.99,8 oz,Contains milk,Yes,00123456000165,2026-01-27
-SKU-00017,WisconsinPride,Shredded 16oz,Dairy,5.49,16 oz,Contains milk,Yes,00123456000172,2026-02-22
-SKU-00018,PureDairy,PureDairy Heavy Cream 16 fl oz,Dairy,4.79,16 fl oz,Contains milk,Yes,,2025-12-30
-SKU-00019,CREAMVALLEY,CreamValley Cottage Cheese 16oz,Dairy,3.99,16 oz,Contains milk,Yes,,2026-04-02
-SKU-00020,PureDairy,PureDairy Butter Unsalted 1lb,Dairy,5.29,16 oz,Contains milk,Yes,,2026-01-01
-SKU-00021,FreshSqueeze,Pulp 52oz,Beverages,4.19,52 fl oz,No major allergens,Yes,00123456000219,2026-02-07
-SKU-00022,FreshSqueeze,Juice 64oz,Beverages,3.99,64 fl oz,No major allergens,Yes,00123456000226,2026-02-10
-SKU-00023,MountainSpring,MountainSpring Sparkling Water Lemon 12pk,Beverages,5.49,144 fl oz,No major allergens,Yes,,2026-05-11
-SKU-00024,MountainSpring,MountainSpring Still Water 24pk,Beverages,4.29,405.6 fl oz,No major allergens,Yes,,2026-01-19
-SKU-00025,LeafBrew,LeafBrew Green Tea Bags 20ct,Beverages,4.49,20 ct,No major allergens,Yes,,2026-02-18
-SKU-00026,LEAFBREW,LeafBrew English Breakfast Tea 40ct,Beverages,5.45,40 ct,No major allergens,Yes,,2026-03-23
-SKU-00027,FRESHSQUEEZE,Lemonade 52oz,Beverages,3.79,52 fl oz,No major allergens,Out of Stock,00123456000271,2026-04-22
-SKU-00028,MountainSpring,MountainSpring Coconut Water 11.2oz,Beverages,2.99,11.2 fl oz,No major allergens. Contains coconut (tree nut),Yes,,2026-03-29
-SKU-00029,LeafBrew,LeafBrew Chai Latte Mix 10ct,Beverages,6.49,10 ct,Contains milk,Yes,,2026-03-11
-SKU-00030,FreshSqueeze,Cocktail 64oz,Beverages,3.49,64 fl oz,No major allergens,Yes,00123456000301,2026-01-21
-SKU-00031,CrunchCraft,CrunchCraft Sea Salt Kettle Chips 7oz,Snacks,3.99,7 oz,No major allergens. Made in a facility that processes milk,Yes,,2026-04-04
-SKU-00032,CRUNCHCRAFT,CrunchCraft BBQ Chips 9oz,Snacks,4.49,9 oz,Contains milk,Yes,,2026-04-02
-SKU-00033,NutHouse,NutHouse Roasted Almonds 12oz,Snacks,6.95,12 oz,Contains tree nuts (almonds),Yes,,2026-02-02
-SKU-00034,NutHouse,Classic 16oz,Snacks,6.49,16 oz,"Contains peanuts, tree nuts, milk, and soy",Yes,00123456000349,2026-02-10
-SKU-00035,DarkBliss,DarkBliss 72% Dark Chocolate Bar 3.5oz,Snacks,4.99,3.5 oz,Contains milk and soy (lecithin),Yes,,2026-02-23
-SKU-00036,DarkBliss,DarkBliss Milk Chocolate Almonds 5oz,Snacks,5.49,5 oz,"Contains milk, tree nuts (almonds), and soy",Yes,,2025-12-26
-SKU-00037,CrunchCraft,Chips 10oz,Snacks,4.29,10 oz,Contains wheat (gluten),Yes,00123456000370,2026-03-06
-SKU-00038,NutHouse,Salted 10oz,Snacks,8.99,10 oz,Contains tree nuts (cashews),Out of Stock,00123456000387,2025-11-25
-SKU-00039,DarkBliss,Bar 3oz,Snacks,4.49,3 oz,"Contains milk, soy, and egg",Yes,00123456000394,2026-04-11
-SKU-00040,CRUNCHCRAFT,CrunchCraft Pretzel Thins 8oz,Snacks,3.49,8 oz,Contains wheat (gluten),Yes,,2026-04-12
-SKU-00041,CleanHome,CleanHome All-Purpose Cleaner 32oz,Cleaning,4.49,32 fl oz,Not a food product,Yes,,2025-12-02
-SKU-00042,CleanHome,CleanHome Dish Soap Lemon 22oz,Cleaning,3.29,22 fl oz,Not a food product,Yes,,2026-01-03
-SKU-00043,FreshGlow,FreshGlow Moisturizing Shampoo 12oz,Hair Care,6.99,12 fl oz,Not a food product,Yes,,2025-11-10
-SKU-00044,FreshGlow,Repair 12oz,Hair Care,7.12,12 fl oz,Not a food product,Yes,00123456000448,2026-04-07
-SKU-00045,FreshGlow,FreshGlow Bar Soap Oatmeal 4pk,Body Care,4.74,4 ct,Not a food product,Yes,,2025-11-04
-SKU-00046,FrostBite,FrostBite Pepperoni Pizza 2pk,Frozen,7.99,2 ct,"Contains wheat (gluten), milk, and soy",Yes,,2026-05-08
-SKU-00047,FrostBite,Tenders 24oz,Frozen,8.07,24 oz,"Contains wheat (gluten), milk, soy, and eggs",Out of Stock,00123456000479,2025-12-19
-SKU-00048,FROSTBITE,FrostBite Vanilla Ice Cream 48oz,Frozen,5.69,48 fl oz,Contains milk and eggs,Yes,,2026-04-02
-SKU-00049,FrostBite,FrostBite Mixed Vegetables 16oz,Frozen,2.37,16 oz,No major allergens,Yes,,2025-11-20
-SKU-00050,FrostBite,FrostBite Fish Sticks 12ct,Frozen,5.69,12 ct,Contains wheat (gluten) and fish,Yes,,2026-05-09
-SKU-00051,HearthBaked,HearthBaked Whole Wheat Bread 20oz,Bakery,3.99,20 oz,Contains wheat (gluten) and soy,Yes,,2025-11-08
-SKU-00052,HearthBaked,Loaf 24oz,Bakery,4.99,24 oz,Contains wheat (gluten),Yes,00123456000523,2026-02-10
-SKU-00053,HearthBaked,Bagels 6ct,Bakery,4.49,6 ct,"Contains wheat (gluten), milk, sesame, soy, and eggs",Yes,00123456000530,2026-02-02
-SKU-00054,HEARTHBAKED,HearthBaked Blueberry Muffins 4ct,Bakery,5.49,4 ct,"Contains wheat (gluten), milk, soy, and eggs",Yes,,2026-03-23
-SKU-00055,HearthBaked,Tortillas 10ct,Bakery,3.79,10 ct,Contains wheat (gluten) and soy,Out of Stock,00123456000554,2026-03-29
-SKU-00056,PrimeCut,85/15 1lb,Meat & Poultry,6.99,16 oz,No major allergens,Out of Stock,00123456000561,2026-04-14
-SKU-00057,PrimeCut,PrimeCut Boneless Chicken Breast 1.5lb,Meat & Poultry,8.49,24 oz,No major allergens,Yes,,2026-01-04
-SKU-00058,PRIMECUT,Bacon 16oz,Meat & Poultry,6.29,16 oz,No major allergens,Out of Stock,00123456000585,2025-12-23
-SKU-00059,PrimeCut,PrimeCut Italian Sausage Links 5ct,Meat & Poultry,5.99,5 ct,No major allergens,Yes,,2026-03-10
-SKU-00060,PrimeCut,Meat 8oz,Meat & Poultry,4.99,8 oz,Contains soy,Out of Stock,00123456000608,2026-02-13
+SKU,VENDOR,ITEM_NAME,DEPARTMENT,PRICE,SIZE_TEXT,ALLERGEN_NOTES,IN_STOCK,UPC_CODE,LAST_UPDATED,CALORIES_PER_SERVING,PROTEIN_G,FAT_G
+SKU-00041,CleanHome,CleanHome All-Purpose Cleaner 32oz,Cleaning,4.49,32 fl oz,Not a food product,Yes,,2025-12-02,0 cal,0g,0g
+SKU-00002,GoldenHarvest,GoldenHarvest Honey Granola 16oz,Breakfast Cereals,5.49,16 oz,"Contains wheat, oats (gluten) and tree nuts",Yes,,2026-03-02,450 cal,9g,18g
+SKU-00019,CREAMVALLEY,CreamValley Cottage Cheese 16oz,Dairy,3.99,16 oz,Contains milk,Yes,,2026-04-02,100 cal,11g,4g
+SKU-00029,LeafBrew,LeafBrew Chai Latte Mix 10ct,Beverages,6.49,10 ct,Contains milk,Yes,,2026-03-11,90 cal,2g,2g
+SKU-00031,CrunchCraft,CrunchCraft Sea Salt Kettle Chips 7oz,Snacks,3.99,7 oz,No major allergens. Made in a facility that processes milk,Yes,,2026-04-04,530 cal,6g,30g
+SKU-00042,CleanHome,CleanHome Dish Soap Lemon 22oz,Cleaning,3.29,22 fl oz,Not a food product,Yes,,2026-01-03,0 cal,0g,0g
+SKU-00046,FrostBite,FrostBite Pepperoni Pizza 2pk,Frozen,7.99,2 ct,"Contains wheat (gluten), milk, and soy",Yes,,2026-05-08,240 cal,11g,10g
+SKU-00051,HearthBaked,HearthBaked Whole Wheat Bread 20oz,Bakery,3.99,20 oz,Contains wheat (gluten) and soy,Yes,,2025-11-08,250 cal,10g,4g
+SKU-00001,GoldenHarvest,GoldenHarvest Oat Flakes 18oz,Breakfast Cereals,4.29,18 oz,Contains wheat and oats (gluten),Yes,,2026-03-12,380 cal,13g,7g
+SKU-00004,MorningField,MorningField Fruit & Nut Muesli 20oz,Breakfast Cereals,5.73,20 oz,"Contains wheat (gluten), milk, and tree nuts",Yes,,2026-04-25,370 cal,11g,9g
+SKU-00005,NaturePath,NaturePath Organic Corn Flakes 12oz,Breakfast Cereals,4.49,12 oz,Gluten-free facility. No major allergens,Yes,,2026-01-23,380 cal,7g,1g
+SKU-00006,NaturePath,NaturePath Steel Cut Oats 24oz,Breakfast Cereals,5.99,24 oz,Contains oats (gluten). Processed in a facility that handles tree nuts,Yes,,2026-01-31,370 cal,13g,7g
+SKU-00007,SunriseGrains,SunriseGrains Chocolate Puffs 13oz,Breakfast Cereals,3.99,13 oz,Contains milk and soy,Yes,,2026-03-02,410 cal,6g,5g
+SKU-00012,PureDairy,PureDairy 2% Reduced Fat Milk Half Gallon,Dairy,3.29,64 fl oz,Contains milk,Yes,,2026-01-17,50 cal,3g,2g
+SKU-00013,CreamValley,CreamValley Greek Yogurt Plain 32oz,Dairy,5.99,32 oz,Contains milk,Yes,,2026-03-01,100 cal,10g,5g
+SKU-00018,PureDairy,PureDairy Heavy Cream 16 fl oz,Dairy,4.79,16 fl oz,Contains milk,Yes,,2025-12-30,340 cal,2g,36g
+SKU-00020,PureDairy,PureDairy Butter Unsalted 1lb,Dairy,5.29,16 oz,Contains milk,Yes,,2026-01-01,720 cal,1g,81g
+SKU-00023,MountainSpring,MountainSpring Sparkling Water Lemon 12pk,Beverages,5.49,144 fl oz,No major allergens,Yes,,2026-05-11,0 cal,0g,0g
+SKU-00024,MountainSpring,MountainSpring Still Water 24pk,Beverages,4.29,405.6 fl oz,No major allergens,Yes,,2026-01-19,0 cal,0g,0g
+SKU-00026,LEAFBREW,LeafBrew English Breakfast Tea 40ct,Beverages,5.45,40 ct,No major allergens,Yes,,2026-03-23,0 cal,0g,0g
+SKU-00028,MountainSpring,MountainSpring Coconut Water 11.2oz,Beverages,2.99,11.2 fl oz,No major allergens. Contains coconut (tree nut),Yes,,2026-03-29,20 cal,0g,0g
+SKU-00032,CRUNCHCRAFT,CrunchCraft BBQ Chips 9oz,Snacks,4.49,9 oz,Contains milk,Yes,,2026-04-02,540 cal,6g,32g
+SKU-00033,NutHouse,NutHouse Roasted Almonds 12oz,Snacks,6.95,12 oz,Contains tree nuts (almonds),Yes,,2026-02-02,580 cal,21g,49g
+SKU-00035,DarkBliss,DarkBliss 72% Dark Chocolate Bar 3.5oz,Snacks,4.99,3.5 oz,Contains milk and soy (lecithin),Yes,,2026-02-23,560 cal,8g,42g
+SKU-00036,DarkBliss,DarkBliss Milk Chocolate Almonds 5oz,Snacks,5.49,5 oz,"Contains milk, tree nuts (almonds), and soy",Yes,,2025-12-26,530 cal,9g,35g
+SKU-00040,CRUNCHCRAFT,CrunchCraft Pretzel Thins 8oz,Snacks,3.49,8 oz,Contains wheat (gluten),Yes,,2026-04-12,380 cal,10g,4g
+SKU-00043,FreshGlow,FreshGlow Moisturizing Shampoo 12oz,Hair Care,6.99,12 fl oz,Not a food product,Yes,,2025-11-10,0 cal,0g,0g
+SKU-00045,FreshGlow,FreshGlow Bar Soap Oatmeal 4pk,Body Care,4.74,4 ct,Not a food product,Yes,,2025-11-04,0 cal,0g,0g
+SKU-00048,FROSTBITE,FrostBite Vanilla Ice Cream 48oz,Frozen,5.69,48 fl oz,Contains milk and eggs,Yes,,2026-04-02,210 cal,4g,11g
+SKU-00049,FrostBite,FrostBite Mixed Vegetables 16oz,Frozen,2.37,16 oz,No major allergens,Yes,,2025-11-20,60 cal,3g,0g
+SKU-00050,FrostBite,FrostBite Fish Sticks 12ct,Frozen,5.69,12 ct,Contains wheat (gluten) and fish,Yes,,2026-05-09,200 cal,12g,10g
+SKU-00054,HEARTHBAKED,HearthBaked Blueberry Muffins 4ct,Bakery,5.49,4 ct,"Contains wheat (gluten), milk, soy, and eggs",Yes,,2026-03-23,380 cal,5g,16g
+SKU-00057,PrimeCut,PrimeCut Boneless Chicken Breast 1.5lb,Meat & Poultry,8.49,24 oz,No major allergens,Yes,,2026-01-04,120 cal,22g,3g
+SKU-00059,PrimeCut,PrimeCut Italian Sausage Links 5ct,Meat & Poultry,5.99,5 ct,No major allergens,Yes,,2026-03-10,300 cal,16g,24g
+SKU-00003,MorningField,MorningField Bran Flakes 14oz,Breakfast Cereals,3.11,14 oz,Contains wheat (gluten),Yes,,2026-02-12,,,
+SKU-00025,LeafBrew,LeafBrew Green Tea Bags 20ct,Beverages,4.49,20 ct,No major allergens,Yes,,2026-02-18,,,
+SKU-00010,MorningField,MorningField Cinnamon Squares 14.5oz,Breakfast Cereals,4.19,14.5 oz,Contains wheat (gluten) and soy,Yes,,2026-04-05,,,
+SKU-00011,PureDairy,PureDairy Whole Milk 1 Gallon,Dairy,4.59,128 fl oz,Contains milk,Yes,,2025-11-24,,,
+SKU-00008,SunriseGrains,SunriseGrains Crunch 15oz,Breakfast Cereals,6.49,15 oz,"Contains wheat (gluten), milk, and soy",Out of Stock,00123456000080,2026-04-14,380 cal,20g,5g
+SKU-00009,GoldenHarvest,GoldenHarvest Variety 10pk,Breakfast Cereals,4.99,10 ct,"Contains wheat, oats (gluten) and milk",Yes,00123456000097,2026-01-15,370 cal,8g,6g
+SKU-00014,CreamValley,CreamValley Strawberry 5.3oz,Dairy,1.49,5.3 oz,Contains milk,Yes,00123456000141,2026-03-10,90 cal,12g,3g
+SKU-00015,CREAMVALLEY,CREAMVALLEY Yogurt 6oz,Dairy,1.07,6 oz,Contains milk,Yes,00123456000158,2026-01-02,90 cal,5g,2g
+SKU-00016,WisconsinPride,WisconsinPride Cheddar 8oz,Dairy,4.99,8 oz,Contains milk,Yes,00123456000165,2026-01-27,400 cal,25g,33g
+SKU-00022,FreshSqueeze,FreshSqueeze Juice 64oz,Beverages,3.99,64 fl oz,No major allergens,Yes,00123456000226,2026-02-10,50 cal,0g,0g
+SKU-00027,FRESHSQUEEZE,FRESHSQUEEZE Lemonade 52oz,Beverages,3.79,52 fl oz,No major allergens,Out of Stock,00123456000271,2026-04-22,40 cal,0g,0g
+SKU-00030,FreshSqueeze,FreshSqueeze Cocktail 64oz,Beverages,3.49,64 fl oz,No major allergens,Yes,00123456000301,2026-01-21,50 cal,0g,0g
+SKU-00034,NutHouse,NutHouse Classic 16oz,Snacks,6.49,16 oz,"Contains peanuts, tree nuts, milk, and soy",Yes,00123456000349,2026-02-10,480 cal,12g,25g
+SKU-00037,CrunchCraft,CrunchCraft Chips 10oz,Snacks,4.29,10 oz,Contains wheat (gluten),Yes,00123456000370,2026-03-06,420 cal,7g,15g
+SKU-00039,DarkBliss,DarkBliss Bar 3oz,Snacks,4.49,3 oz,"Contains milk, soy, and egg",Yes,00123456000394,2026-04-11,540 cal,6g,32g
+SKU-00044,FreshGlow,FreshGlow Repair 12oz,Hair Care,7.12,12 fl oz,Not a food product,Yes,00123456000448,2026-04-07,0 cal,0g,0g
+SKU-00047,FrostBite,FrostBite Tenders 24oz,Frozen,8.07,24 oz,"Contains wheat (gluten), milk, soy, and eggs",Out of Stock,00123456000479,2025-12-19,210 cal,18g,10g
+SKU-00052,HearthBaked,HearthBaked Loaf 24oz,Bakery,4.99,24 oz,Contains wheat (gluten),Yes,00123456000523,2026-02-10,270 cal,9g,2g
+SKU-00055,HearthBaked,HearthBaked Tortillas 10ct,Bakery,3.79,10 ct,Contains wheat (gluten) and soy,Out of Stock,00123456000554,2026-03-29,310 cal,8g,8g
+SKU-00017,WisconsinPride,WisconsinPride Shredded 16oz,Dairy,5.49,16 oz,Contains milk,Yes,00123456000172,2026-02-22,,,
+SKU-00021,FreshSqueeze,FreshSqueeze Pulp 52oz,Beverages,4.19,52 fl oz,No major allergens,Yes,00123456000219,2026-02-07,,,
+SKU-00038,NutHouse,NutHouse Salted 10oz,Snacks,8.99,10 oz,Contains tree nuts (cashews),Out of Stock,00123456000387,2025-11-25,,,
+SKU-00053,HearthBaked,HearthBaked Bagels 6ct,Bakery,4.49,6 ct,"Contains wheat (gluten), milk, sesame, soy, and eggs",Yes,00123456000530,2026-02-02,,,
+SKU-00056,PrimeCut,PrimeCut 85/15 1lb,Meat & Poultry,6.99,16 oz,No major allergens,Out of Stock,00123456000561,2026-04-14,,,
+SKU-00058,PRIMECUT,PRIMECUT Bacon 16oz,Meat & Poultry,6.29,16 oz,No major allergens,Out of Stock,00123456000585,2025-12-23,,,
+SKU-00060,PrimeCut,PrimeCut Meat 8oz,Meat & Poultry,4.99,8 oz,Contains soy,Out of Stock,00123456000608,2026-02-13,,,
