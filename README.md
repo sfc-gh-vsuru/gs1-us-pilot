@@ -38,6 +38,8 @@ flowchart LR
     end
 ```
 
+![Pilot Architecture](images/GS1-PilotArchitecture.jpeg)
+
 ---
 
 ## The Two Claims to Prove
@@ -152,6 +154,12 @@ GS1 commits curation/validation time only. No engineering.
 ---
 
 ## Results
+
+### Measurement Charts - Streamlit Dashboard
+
+![Pilot Effectiveness Measurement](images/GS1-Pilot-EffectivenessMeasure.jpeg)
+
+### Results and Findings
 
 | Config | Data Source | Technique | Accuracy |
 |---|---|---|---|
